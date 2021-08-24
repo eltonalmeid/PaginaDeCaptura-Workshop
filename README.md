@@ -4,11 +4,13 @@
   <img alt="mockup" src=".github/mockup-workshop.jpg" width="100%">
 </p>
 
+<h2 align="center">
+  <a href="https://eltonalmeid.github.io/PaginaDeCaptura-Workshop/">CLIQUE AQUI</a>
+</h2>
+
 <div align="center">
    Projeto desenvolvido com ensinamentos do curso ProgramadorBR
 </div>
-
-<h2 align="center">CLIQUE AQUI</h2>
 
 <p align="center">
   <a href="#clipboard-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
