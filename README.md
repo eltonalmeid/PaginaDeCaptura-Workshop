@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  Acesse a Página clicando <a href="https://eltonalmeid.github.io/PaginaDeCaptura-Workshop/">AQUI</a>
+  Acesse a Página Clicando <a href="https://eltonalmeid.github.io/PaginaDeCaptura-Workshop/">AQUI</a>
 </h2>
 
 <div align="center">
