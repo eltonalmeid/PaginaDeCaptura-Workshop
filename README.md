@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  <a href="https://eltonalmeid.github.io/PaginaDeCaptura-Workshop/">CLIQUE AQUI</a>
+  Para acessar a land page: <a href="https://eltonalmeid.github.io/PaginaDeCaptura-Workshop/">CLIQUE AQUI</a>
 </h2>
 
 <div align="center">
