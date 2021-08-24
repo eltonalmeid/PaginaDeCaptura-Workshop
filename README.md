@@ -9,7 +9,7 @@
 </h2>
 
 <div align="center">
-   Projeto desenvolvido com ensinamentos do curso ProgramadorBR
+   <h3>Projeto desenvolvido com ensinamentos do curso ProgramadorBR</h3>
 </div>
 
 <p align="center">
